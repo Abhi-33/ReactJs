@@ -1,11 +1,11 @@
-import './App.css';
-import Navbar from './components/Navbar.js';
+import Chai from './chai';
 
 function App() {
   return (
     <>
-  <Navbar title={3} aboutText='About Text'/>
-  </>
+    <Chai/>
+    <h1>Chai aur react | Abhishek Vashisth | Basics of React</h1>
+    </>
     );
 }
 
